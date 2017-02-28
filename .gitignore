@@ -1,0 +1,20 @@
+# ignore everything by default
+/*
+/*/
+
+# DOT NOT IGNORE
+# gitignore
+!.gitignore
+
+# root level project files
+!.babelrc
+!package.json
+!readme.md
+!webpack.config.js
+
+# public
+!/public/
+
+# src
+!/src/
+
