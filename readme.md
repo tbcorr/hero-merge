@@ -11,3 +11,8 @@ npm install // install project and development dependencies
 ```
 ```
 npm start // start webpack development server.
+```
+Application will be available at http://localhost:8080
+
+## Development Time
+As of the initial commit the project has taken about 5 hours. The initial commit contains the overall application setup ie: routing, views, and display only components. Next features to be added are tracked as issues in the repo.
