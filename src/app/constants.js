@@ -1,3 +1,3 @@
-const API_KEY = '8cbc6c91';
+const API_KEY = '###'; // expires, needs to be updated
 
 export default API_KEY;
